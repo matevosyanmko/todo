@@ -1,0 +1,59 @@
+/* fields */
+.inputForm {
+  width: 100%;
+  padding: 20px;
+}
+.inputForm .input {
+  width: 100%;
+  height: 50px;
+}
+.inputForm button{
+  height: 50px;
+}
+.fieldInput {
+  width: 500px;
+}
+/* task list */
+.taskList {
+  width: 100%;
+}
+.taskItem {
+  width: 96%;
+  margin: 10px auto;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
+  border-radius: 15px;
+  padding: 10px;
+  color: rgba(255, 255, 255, 0.9) !important;
+  border: 1px solid rgba(255, 255, 255, 0.9);
+}
+.ui.checkbox label,
+.ui.checkbox + label {
+  color: rgba(255, 255, 255, 0.9) !important;
+}
+.taskName {
+  
+  font-size: 22px;
+}
+.taskAction .icons {
+  margin-left: 5px;
+  width: 65px;
+}
+
+/* task edit  */
+.taskEdit {
+  position: fixed;
+  width: 100%;
+  height: 100%;
+  left: 0;
+  top: 0;
+  background: rgba(0, 0, 0, 0.9);
+  z-index: 1000000 !important;
+}
+.taskEdit > form {
+  background: #ffffff;
+  padding: 20px;
+}
+.taskEdit > form > * {
+  margin-bottom: 5px;
+  width: 100%;
+}
