@@ -1,2 +1,2 @@
-DEMO
-https://naughty-blackwell-ea0353.netlify.com/
+	DEMO 
+todo-redux-app.netlify.com
