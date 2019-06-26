@@ -1,3 +1,3 @@
 Live Demo 
-## todo-redux-app.netlify.com
+## https://todo-redux-app.netlify.com/
 
